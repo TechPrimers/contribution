@@ -13,6 +13,7 @@
 - AWS Cloud Formation template creating CLI using `golang`
 - Cloud Native Micorservices Patterns
 - Kubernetes Microservices Patterns
+
 Do provide us more Ideas!
 
 ## Current Active Open Source Projects
@@ -35,6 +36,8 @@ Documentation is the essense of a good Open Source project. Whenever you feel th
 Add some meaningful commit messages so that it's easy for contributors to make a sense of what constitutes the commits.
 
 ## Copyrights
-All code repositories under this Github Organization is primarily covered under [MIT license](https://opensource.org/licenses/MIT). Meaning - you can distribute, share, copy, merge the software, however you need to add the MIT license along with the code.
+All code repositories under this Github Organization is primarily covered under [MIT license](https://opensource.org/licenses/MIT). 
+
+You can distribute, share, copy, merge the software, however you need to add the MIT license along with the code.
 
 ### Happy Coding!
