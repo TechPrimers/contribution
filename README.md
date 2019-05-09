@@ -17,7 +17,7 @@
 Do provide us more Ideas!
 
 ## Current Active Open Source Projects
-- Core NLP example
+- [Core NLP example](https://github.com/TechPrimers/core-nlp-example)
 
 ## How to Contribute to TechPrimers Open Source Community
 We’d love to accept your patches and contributions to this project. There are just a few small guidelines you need to follow.
