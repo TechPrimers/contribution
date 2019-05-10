@@ -8,6 +8,8 @@
 ## Current Contributors
 - [Ajay Kumar](https://github.com/MovingToWeb) - Owner
 - [Kunal Sharma](https://github.com/Knlsharma) - Collaborator
+- Asish Burnwal - Member
+- Amrita Sahoo - Member
 
 ## Open Source projects Ideas
 - AWS Cloud Formation template creating CLI using `golang`
@@ -20,7 +22,7 @@ Do provide us more Ideas!
 - [Core NLP example](https://github.com/TechPrimers/core-nlp-example)
 
 ## How to Contribute to TechPrimers Open Source Community
-We’d love to accept your patches and contributions to this project. There are just a few small guidelines you need to follow.
+We’d love to accept your patches and contributions to the open source projects. There are just a few small guidelines you need to follow.
 You can follow steps on forking and raising pull requests from [firstcontributions](https://github.com/firstcontributions/first-contributions/blob/master/README.md)
 
 ## Continuous Integration
