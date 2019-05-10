@@ -9,7 +9,7 @@
 - [Ajay Kumar](https://github.com/MovingToWeb) - Owner
 - [Kunal Sharma](https://github.com/Knlsharma) - Collaborator
 - Ashish Burnwal - Member
-- Amrita Sahoo - Member
+- [Amrita Sahoo](https://github.com/amsahoo) - Member
 
 ## Open Source projects Ideas
 - AWS Cloud Formation template creating CLI using `golang`
