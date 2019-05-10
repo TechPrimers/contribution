@@ -8,7 +8,7 @@
 ## Current Contributors
 - [Ajay Kumar](https://github.com/MovingToWeb) - Owner
 - [Kunal Sharma](https://github.com/Knlsharma) - Collaborator
-- Asish Burnwal - Member
+- Ashish Burnwal - Member
 - Amrita Sahoo - Member
 
 ## Open Source projects Ideas
