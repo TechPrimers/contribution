@@ -10,6 +10,7 @@
 - [Kunal Sharma](https://github.com/Knlsharma) - Collaborator
 - Ashish Burnwal - Member
 - [Amrita Sahoo](https://github.com/amsahoo) - Member
+- [Pritam Prasad](https://github.com/pritamprasd) - Member
 
 ## Open Source projects Ideas
 - AWS Cloud Formation template creating CLI using `golang`
