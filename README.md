@@ -18,7 +18,7 @@
 - [Pritam Prasad](https://github.com/pritamprasd) - Member
 
 ## Open Source projects
-- [Ideas](/ideads.md)
+- [Ideas](/ideas.md)
 - [Spent](https://github.com/TechPrimers/spent)
 
 Do provide us more Ideas!
