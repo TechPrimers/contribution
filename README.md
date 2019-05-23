@@ -1,5 +1,6 @@
 # Open Source Contribution CookBook
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/fd4d8b2ee32a4a6e8002a7c80fdc622b)](https://app.codacy.com/app/MovingToWeb/contribution?utm_source=github.com&utm_medium=referral&utm_content=TechPrimers/contribution&utm_campaign=Badge_Grade_Settings)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [<img align="right" width="150" src="assets/join-slack-team.png">](https://join.slack.com/t/techprimers/shared_invite/enQtNTI3MzQxODEwNDMzLTU3ZTRiMDkxYWI4NTM1NWIwOGZlYTE1M2I4Zjg3M2U3ZDMzZWU4NTA3MzM5NjI0ZmQ1YmZhMGNhMGI1NGYwMTY)
 [![Build Status](https://travis-ci.com/TechPrimers/contribution.svg?branch=master)](https://travis-ci.com/TechPrimers/contribution)
