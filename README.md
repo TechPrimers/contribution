@@ -86,4 +86,4 @@ All code repositories under this Github Organization is primarily covered under 
 
 You can distribute, share, copy, merge the software, however you need to add the MIT license along with the code.
 
-*Happy Coding!*
+**Happy Coding!**
