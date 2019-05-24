@@ -10,6 +10,8 @@
 [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/techprimers/contribution.svg?maxAge=2592000)]() 
 [![GitHub forks](https://img.shields.io/github/forks/techprimers/contribution.svg)](https://github.com/techprimers/contribution/network)
 
+## Tables of Contents
+
 ## Current Contributors
 - [Ajay Kumar](https://github.com/MovingToWeb) - Owner
 - [Kunal Sharma](https://github.com/Knlsharma) - Collaborator
@@ -18,13 +20,12 @@
 - [Pritam Prasad](https://github.com/pritamprasd) - Member
 
 ## Open Source projects
-- [Ideas](/ideas.md)
-- [Spent](https://github.com/TechPrimers/spent)
-
-Do provide us more Ideas!
+- [Ideas](/ideas.md) - Do provide us more Ideas!
+- [Spent](https://github.com/TechPrimers/spent) - Our first Open Source project
 
 ## Current Active Open Source Projects
 - [Core NLP example](https://github.com/TechPrimers/core-nlp-example)
+- [Spent](https://github.com/TechPrimers/spent)
 
 ## How to Contribute to TechPrimers Open Source Community
 We’d love to accept your patches and contributions to the open source projects. There are just a few small guidelines you need to follow.
