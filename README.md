@@ -26,6 +26,7 @@ Table of Contents
    * [Copyrights](#copyrights)
    
 Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
+
 ## Current Contributors
 - [Ajay Kumar](https://github.com/MovingToWeb) - Owner
 - [Kunal Sharma](https://github.com/Knlsharma) - Collaborator
@@ -44,6 +45,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 ## How to Contribute to TechPrimers Open Source Community
 We’d love to accept your patches and contributions to the open source projects. There are just a few small guidelines you need to follow.
 You can follow steps on forking and raising pull requests from [firstcontributions](https://github.com/firstcontributions/first-contributions/blob/master/README.md)
+[Github Marketplace](https://github.com/marketplace) has lots of Free and Open Source tools which we can leverage in every repository.
 
 ## Continuous Integration
 We have [Travis CI](https://travis-ci.com/TechPrimers) integrated into the TechPrimers account. Leverage the CI wherever necessary and show your TDD skills in writing clean and neat code.
