@@ -54,7 +54,7 @@ Every open source repository in TechPrimers should have the badges similar to th
 ```
 
 ## Commit Messages
-Add some meaningful commit messages so that it's easy for contributors to make a sense of what constitutes the commits.
+Add some meaningful commit messages so that it's easy for contributors to make a sense of what constitutes the commits. If there are new files, use `issue-1: [add]` and if there are any modifications to existing files, use `issue-1: [update]`. This creates uniform commit message again an issue. If there are no issues to commit against, don't use the issue number.
 
 ## Branch Naming Conventions
 - `master` - Final Production branch
