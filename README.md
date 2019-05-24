@@ -55,7 +55,7 @@ You can follow steps on forking and raising pull requests from [firstcontributio
 We have [Travis CI](https://travis-ci.com/TechPrimers) integrated into the TechPrimers account. Leverage the CI wherever necessary and show your TDD skills in writing clean and neat code.
 
 ## Code Scans
-By default Github scans code for vulnerabilities. However that's not reliable. Hence we leverage `Codacy` to perform scans. Every opensource project needs to enable `Codacy` scan.
+By default Github scans code for vulnerabilities; However that's not reliable. Hence we shall leverage [Codacy](https://www.codacy.com) to perform scans for all our open source projects.
 
 ## Code Reviews
 All submissions, including submissions by project members, require review. We use GitHub pull requests for this purpose. Consult GitHub Help for more information on using pull requests.
