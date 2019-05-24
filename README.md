@@ -79,7 +79,7 @@ Add some meaningful commit messages so that it's easy for contributors to make a
 ## Branch Naming Conventions
 - `master` - Final Production branch
 - `develop` - Release Candidate branch for testing
-- `feature` - `feature-issue-1-<TEXT>` issue branch for adding features/bug fixes
+- `feature` - `feature-1-<TEXT>` branch for adding features/bug fixes
 
 ## Copyrights
 All code repositories under this Github Organization is primarily covered under [MIT license](https://opensource.org/licenses/MIT). 
