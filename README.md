@@ -33,6 +33,10 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - [Ashish Burnwal](https://github.com/ashishburnwal) - Member
 - [Amrita Sahoo](https://github.com/amsahoo) - Member
 - [Pritam Prasad](https://github.com/pritamprasd) - Member
+- Varsha Jaiprakash - Collaborator
+- Shivani Muthu - Collaborator
+- Roshan Dsouza - Collaborator
+- Palak Jain - Collaborator
 
 ## Open Source projects
 - [Ideas](/ideas.md) - Do provide us more Ideas!
