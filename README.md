@@ -17,7 +17,8 @@ Table of Contents
    * [Current Active Open Source Projects](#current-active-open-source-projects)
    * [How to Contribute to TechPrimers Open Source Community](#how-to-contribute-to-techprimers-open-source-community)
    * [Continuous Integration](#continuous-integration)
-   * [Code reviews](#code-reviews)
+   * [Code Scans](#code-scans)
+   * [Code Reviews](#code-reviews)
    * [Documentation](#documentation)
       * [Style](#style)
    * [Commit Messages](#commit-messages)
@@ -47,7 +48,10 @@ You can follow steps on forking and raising pull requests from [firstcontributio
 ## Continuous Integration
 We have [Travis CI](https://travis-ci.com/TechPrimers) integrated into the TechPrimers account. Leverage the CI wherever necessary and show your TDD skills in writing clean and neat code.
 
-## Code reviews
+## Code Scans
+By default Github scans code for vulnerabilities. However that's not reliable. Hence we leverage `Codacy` to perform scans. Every opensource project needs to enable `Codacy` scan.
+
+## Code Reviews
 All submissions, including submissions by project members, require review. We use GitHub pull requests for this purpose. Consult GitHub Help for more information on using pull requests.
 
 ## Documentation
