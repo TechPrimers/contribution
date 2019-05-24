@@ -10,8 +10,21 @@
 [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/techprimers/contribution.svg?maxAge=2592000)]() 
 [![GitHub forks](https://img.shields.io/github/forks/techprimers/contribution.svg)](https://github.com/techprimers/contribution/network)
 
-## Tables of Contents
-
+Table of Contents
+=================
+   * [Current Contributors](#current-contributors)
+   * [Open Source projects](#open-source-projects)
+   * [Current Active Open Source Projects](#current-active-open-source-projects)
+   * [How to Contribute to TechPrimers Open Source Community](#how-to-contribute-to-techprimers-open-source-community)
+   * [Continuous Integration](#continuous-integration)
+   * [Code reviews](#code-reviews)
+   * [Documentation](#documentation)
+      * [Style](#style)
+   * [Commit Messages](#commit-messages)
+   * [Branch Naming Conventions](#branch-naming-conventions)
+   * [Copyrights](#copyrights)
+   
+Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 ## Current Contributors
 - [Ajay Kumar](https://github.com/MovingToWeb) - Owner
 - [Kunal Sharma](https://github.com/Knlsharma) - Collaborator
@@ -67,4 +80,4 @@ All code repositories under this Github Organization is primarily covered under 
 
 You can distribute, share, copy, merge the software, however you need to add the MIT license along with the code.
 
-### Happy Coding!
+*Happy Coding!*
